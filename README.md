@@ -1,8 +1,8 @@
 ### Hi Guys 👋
-I am AlirezaGharib. I am student of Control(major) and Computer(minor) Engineering at Iran University of Science & Technology. 
+I am AlirezaGharib. I am student of Control(major) and Computer(minor) Engineering at Iran University of Science & Technology. <br/>
 Passionate and motivated Junior Back-End Developer.
-A spontaneous programmer in learning, active and disciplined, learning and teaching new
-technologies and updates.
+A spontaneous programmer in learning, active and disciplined in learning and teaching new
+technologies and trying to up to date.
 In these few Academic Years that I went
 through, I didn't have enough time to develop application, but now I am ready and started my work ;)
 
