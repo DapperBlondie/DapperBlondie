@@ -13,7 +13,7 @@ through, I didn't have enough time to develop application, but now I am ready an
 </p>
 
 
-- 🔭 I’m currently working on Golang, DevOps, GCP, LPIC-2.
+- 🔭 I’m currently working on Golang, DevOps, JavaScript, LPIC-2.
 - 🌱 I’m currently learning Kotling and Rust.
 - 👯 I’m looking to collaborate on any type of Golang or DevOps Projects.
 - 🤔 I’m looking for a Part-Full time job as Golang Developer.
