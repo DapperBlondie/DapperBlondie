@@ -3,13 +3,20 @@
 <h4 align="Justify"> I am student of Control (Major) and Computer (Minor) Engineering at Iran University of Science & Technology.
 Passionate and motivated Junior Developer.
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
-technologies and trying to up to date.
+technologies and trying to up to date.<br>
+I started with C and C++ and learn algorithmic thinking vision then I meet  Java❤️  and working on it for 2 years and have learned about
+  software engineering and design patterns;Now, I am Gopher🙂 and working on it with ❤️❤️❤️❤️.Also, working on LPIC-2 and Kotlin and Rustsimultaneously.<br>
 In these few Academic Years that I went
 through, I didn't have enough time to develop application, but now I am ready and started my work ;)</h6>
 
 [![Years Badge](https://badges.pufler.dev/years/DapperBlondie)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/DapperBlondie)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/DapperBlondie)](https://badges.pufler.dev)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapperblondie&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
 
@@ -27,9 +34,11 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - 💬 Ask me about **Golang, Js, Java and DevOps**
 
-- 📫 How to reach me **alirezagharib110@gmail.com**
+- 📫 How to reach me **alirezagharib110@gmail.com** and **alireza_gharib@elec.iust.ac.ir**
 
 - 📄 Know about my experiences and Skills [My Online Resume](https://drive.google.com/file/d/1DOV2z0SsylTYUGXavVAa1I5bnuKlRaE8/view?usp=sharing)
+
+- ❤️ I am not programming for money, I am programming because, **I LOVE IT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,3 +59,4 @@ through, I didn't have enough time to develop application, but now I am ready an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dapperblondie&show_icons=true&locale=en" alt="dapperblondie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dapperblondie&" alt="dapperblondie" /></p>
+
