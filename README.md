@@ -11,7 +11,7 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 <p align="left"> <a href="https://twitter.com/dapperblondie" target="blank"><img src="https://img.shields.io/twitter/follow/dapperblondie?logo=twitter&style=for-the-badge" alt="dapperblondie" /></a> </p>
 
-- 🔭 I’m currently working on **Golang, DevOps and LPIC-2**
+- 🔭 I’m currently working on **Golang, DevOps, Python and Linux System Adminstration**
 
 - 🌱 I’m currently learning **Rust, Kotlin and Angular**
 
@@ -21,13 +21,11 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - 📝 I regularly write articles about my projects [Github Gist Page](https://gist.github.com/DapperBlondie)
 
-- 💬 Ask me about **Golang, Js and DevOps**
+- 💬 Ask me about **Golang, Js, Java and DevOps**
 
 - 📫 How to reach me **alirezagharib110@gmail.com**
 
 - 📄 Know about my experiences and Skills [My Online Resume](https://drive.google.com/file/d/1DOV2z0SsylTYUGXavVAa1I5bnuKlRaE8/view?usp=sharing)
-
-- ⚡ Fun fact **Just for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
