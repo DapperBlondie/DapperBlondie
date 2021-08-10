@@ -7,6 +7,10 @@ technologies and trying to up to date.
 In these few Academic Years that I went
 through, I didn't have enough time to develop application, but now I am ready and started my work ;)</h6>
 
+[![Years Badge](https://badges.pufler.dev/years/DapperBlondie)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/DapperBlondie)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/DapperBlondie)](https://badges.pufler.dev)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapperblondie&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dapperblondie" target="blank"><img src="https://img.shields.io/twitter/follow/dapperblondie?logo=twitter&style=for-the-badge" alt="dapperblondie" /></a> </p>
