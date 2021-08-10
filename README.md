@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">A Motivated Back-End Developer</h3>
-<h4 align="Justify"> I am student of Control (Major) and Computer (Minor) Engineering at Iran University of Science & Technology
+<h4 align="Justify"> I am student of Control (Major) and Computer (Minor) Engineering at Iran University of Science & Technology.
 Passionate and motivated Junior Developer.
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
 technologies and trying to up to date.
