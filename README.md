@@ -38,7 +38,7 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - 📄 Know about my experiences and Skills [My Online Resume](https://drive.google.com/file/d/1DOV2z0SsylTYUGXavVAa1I5bnuKlRaE8/view?usp=sharing)
 
-- ❤️ I am not programming for money, I am programming because, **I LOVE IT**
+- ❤️ I am not programming for money, that's a little goal. I am programming because, **I LOVE IT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
