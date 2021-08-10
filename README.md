@@ -1,3 +1,6 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://i.pinimg.com/originals/c4/b2/7c/c4b27cf2993c750febbc77e803794a52.jpg" alt="cover" />
+</div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">A Motivated Junior Back-End Developer</h3>
 <h4 align="Justify"> I am student of Control (Major) and Computer (Minor) Engineering at Iran University of Science & Technology.
@@ -59,4 +62,3 @@ through, I didn't have enough time to develop application, but now I am ready an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dapperblondie&show_icons=true&locale=en" alt="dapperblondie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dapperblondie&" alt="dapperblondie" /></p>
-
