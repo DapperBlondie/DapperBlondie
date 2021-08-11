@@ -7,7 +7,7 @@
 Passionate and motivated Junior Developer.
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
 technologies and trying to up to date.<br>
-I have started with C and C++ and have learned about algorithmic vision then I met Java❤️  and working on it and Spring Core for 2 years and have learned
+I have started with C and C++ and have learned about algorithmic vision then I have met Java❤️  and have been working on it and Spring Core for 2 years and have learned about
   software engineering and design patterns;Now, I am Gopher🙂 and working on Golang with ❤️❤️❤️❤️.Also, working on LPIC-2 and Kotlin and Rustsimultaneously.<br>
 In these few Academic Years that I went
 through, I didn't have enough time to develop application, but now I am ready and started my work ;)</h6>
