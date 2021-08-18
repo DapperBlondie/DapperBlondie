@@ -31,7 +31,7 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - 👯 I’m looking to collaborate on **any type of Golang Projects**
 
-- 👨‍💻 My Personal Website [dapperblondie.ir](https://dapperblondie.github.io)
+- 👨‍💻 My Personal Website [dapperblondie.ir](https://dapperblondie.ir)
 
 - 📝 I regularly write articles about my projects [Github Gist Page](https://gist.github.com/DapperBlondie)
 
