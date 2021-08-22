@@ -25,9 +25,9 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 <p align="left"> <a href="https://twitter.com/dapperblondie" target="blank"><img src="https://img.shields.io/twitter/follow/dapperblondie?logo=twitter&style=for-the-badge" alt="dapperblondie" /></a> </p>
 
-- 🔭 I’m currently working on **Golang, DevOps, Python and Linux System Adminstration**
+- 🔭 I’m currently working on **Golang, DevOps, Node.js and Linux System Adminstration**
 
-- 🌱 I’m currently learning **Rust, Kotlin and Angular**
+- 🌱 I’m currently learning **Rust, Kotlin and Scala**
 
 - 👯 I’m looking to collaborate on **any type of Golang Projects**
 
