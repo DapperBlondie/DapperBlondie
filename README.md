@@ -31,17 +31,17 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - 👯 I’m looking to collaborate on **any type of Golang Projects**
 
-- 👨‍💻 My Personal Website [dapperblondie.ir](https://dapperblondie.ir)
+- 👨‍💻 My Personal Website [alirezagharib.ir](https://alirezagharib.ir)
 
 - 👋 You can also see my [gitlab](https://gitlab.com/DapperBlondie)
 
-- 📝 I regularly write blog about everything [My Personal Blog](https://blogs.dapperblondie.ir)
+- 📝 I regularly write blog about everything [My Personal Blog](https://blogs.alirezagharib.ir)
 
 - 💬 Ask me about **Golang, Js, Java and DevOps**
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza_gharib@elec.iust.ac.ir**
 
-- 📄 Know about my experiences and Skills [My Online Resume](https://resume.dapperblondie.ir)
+- 📄 Know about my experiences and Skills [My Online Resume](https://resume.alirezagharib.ir)
 
 - ❤️ I am not programming for money, that's a little goal. I am programming because, **I LOVE IT**
 
