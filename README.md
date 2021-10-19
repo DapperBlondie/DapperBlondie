@@ -61,6 +61,8 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - Google Crash Course on Python [link](https://www.coursera.org/account/accomplishments/certificate/VBQ6EA7YZRPX)
 
+- IBM Introduction to Cloud Computing [link](https://www.coursera.org/account/accomplishments/certificate/JTQRW6FSMPFX)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dapperblondie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dapperblondie" height="30" width="40" /></a>
