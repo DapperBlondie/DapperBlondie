@@ -53,6 +53,14 @@ through, I didn't have enough time to develop application, but now I am ready an
 
 - ❤️ I am not programming for money, that's a little goal. I am programming because, **I LOVE IT**
 
+<br>
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <br>
+
+- Jetbrains Kotlin For Developers [link](https://www.coursera.org/account/accomplishments/certificate/SS8DEN5U9VGN)
+
+- Google Crash Course on Python [link](https://www.coursera.org/account/accomplishments/certificate/VBQ6EA7YZRPX)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dapperblondie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dapperblondie" height="30" width="40" /></a>
