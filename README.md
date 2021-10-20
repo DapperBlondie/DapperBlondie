@@ -50,7 +50,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 😍 If you would like to know about Golang Famous Packages [Gopher Land](https://gopher-land.ir) 😃
 
-- ❤️ I am not programming for money, that's a little goal. I am programming because, **I LOVE IT**
+- ❤️ I am not programming for money, that's a humble goal. I am programming because **I LOVE IT, LIVE FOR IT**
 
 <br>
 
