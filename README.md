@@ -72,6 +72,14 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - ❤️ Python Basic Certification [link](https://www.hackerrank.com/certificates/9d0f3fd24fcf)
 
+- ❤️ Java Basic Certification [link](https://www.hackerrank.com/certificates/72def3f90c21)
+
+- ❤️ Javascript Basic Certification [link](https://www.hackerrank.com/certificates/b9db46f79240)
+
+- ❤️ SQL Basic Certification [link](https://www.hackerrank.com/certificates/30f1b8d7f7c0)
+
+- ❤️ SQL Intermediate Certification [link](https://www.hackerrank.com/certificates/6843a81cdf14)
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/dapperblondie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dapperblondie" height="30" width="40" /></a>
