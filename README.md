@@ -81,7 +81,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 <a href="https://discord.gg/Alireza#3940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alireza#3940" height="30" width="40" /></a>
 </p>
 
-Development Tools :<br>
+<h3>Development Tools :</h3>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
