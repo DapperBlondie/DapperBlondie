@@ -76,6 +76,8 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - ❤️ Javascript Basic Certification [link](https://www.hackerrank.com/certificates/b9db46f79240)
 
+- ❤️ Rest API Intermediate Certification [link](https://www.hackerrank.com/certificates/ad03a50e26db)
+
 - ❤️ SQL Basic Certification [link](https://www.hackerrank.com/certificates/30f1b8d7f7c0)
 
 - ❤️ SQL Intermediate Certification [link](https://www.hackerrank.com/certificates/6843a81cdf14)
