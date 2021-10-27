@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://i.pinimg.com/originals/c4/b2/7c/c4b27cf2993c750febbc77e803794a52.jpg" alt="cover" />
+<img width="100%" height = "200px" src="https://i.ibb.co/Xxm4W6V/Color-logo-with-background.png" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">A Motivated Junior Back-End Developer</h3>
