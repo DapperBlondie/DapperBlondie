@@ -45,7 +45,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza_gharib@elec.iust.ac.ir**
 
-- 📄 Know about my experiences and Skills [My Online Resume](https://resume.alirezagharib.ir)
+- 📄 Know about my experiences and Skills [My Online CV](https://alirezagharib.ir/online-cv)
 
 - 😍 If you would like to know about Golang Famous Packages [Gopher Land](https://gopher-land.ir) 😃
 
